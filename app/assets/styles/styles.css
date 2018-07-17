@@ -1,0 +1,17 @@
+$mainBlue: #2F5572;
+
+body {
+  color: $mainBlue;
+  border: 4px solid teal;
+  padding:  25px;
+  columns:  300px 2;
+  h1 {
+    color: darkmagenta;
+  }
+}
+.box {
+  a {
+    display: block;
+    padding: 10px;
+  }
+}
